@@ -1,2 +1,2 @@
 # NavigationExample
-NavigationDrawer And BottomNavigation Using Navigation Component
+NavigationDrawer And BottomNavigation both in one project Using Navigation Component
